@@ -1,3 +1,10 @@
+/*
+EL 2008 Praktikum Pemecahan Masalah dengan Pemrograman
+Modul : Structures & Dynamic Arrays
+Pembuat : Nicholas Keandre
+Deskripsi : Program untuk mengurutkan data artefak dengan aturan multi-kriteria
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
