@@ -64,7 +64,7 @@ int main() {
                     strcpy(arr[k+1].nama, temp4);
                 }
             } else if (arr[k].nilai != arr[k+1].nilai) {
-                if (arr[k].nilai > arr[k+1].nilai) {
+                if (arr[k].nilai < arr[k+1].nilai) {
                     char temp1[100];
                     strcpy(temp1, arr[k].kategori);
                     strcpy(arr[k].kategori, arr[k+1].kategori);
